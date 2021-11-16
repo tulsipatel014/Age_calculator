@@ -20,7 +20,7 @@ function Operation() {
     var d = d2 - d1;
     var m = m2 - m1;
     var y = y2 - y1;
-    document.getElementById('age').innerHTML = 'Congratulations your Age is ' + y + ' Years ' + m + ' Months ' + d + ' Days';
+    document.getElementById('age').innerHTML = 'Congratulation your Age is ' + y + ' Years ' + m + ' Months ' + d + ' Days';
 
 
 }
